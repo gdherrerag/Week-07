@@ -1,0 +1,6 @@
+
+.settings/
+target/
+
+
+//files and directories to be ignored when pushing to GitHub 
